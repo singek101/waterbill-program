@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\waterbill program\bin\Debug\netcoreapp3.1\waterbill program.exe
+C:\Users\USER\Desktop\waterbill program\bin\Debug\netcoreapp3.1\waterbill program.deps.json
+C:\Users\USER\Desktop\waterbill program\bin\Debug\netcoreapp3.1\waterbill program.runtimeconfig.json
+C:\Users\USER\Desktop\waterbill program\bin\Debug\netcoreapp3.1\waterbill program.runtimeconfig.dev.json
+C:\Users\USER\Desktop\waterbill program\bin\Debug\netcoreapp3.1\waterbill program.dll
+C:\Users\USER\Desktop\waterbill program\bin\Debug\netcoreapp3.1\waterbill program.pdb
+C:\Users\USER\Desktop\waterbill program\obj\Debug\netcoreapp3.1\waterbill program.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\waterbill program\obj\Debug\netcoreapp3.1\waterbill program.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\waterbill program\obj\Debug\netcoreapp3.1\waterbill program.AssemblyInfo.cs
+C:\Users\USER\Desktop\waterbill program\obj\Debug\netcoreapp3.1\waterbill program.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\waterbill program\obj\Debug\netcoreapp3.1\waterbill program.dll
+C:\Users\USER\Desktop\waterbill program\obj\Debug\netcoreapp3.1\waterbill program.pdb
+C:\Users\USER\Desktop\waterbill program\obj\Debug\netcoreapp3.1\waterbill program.genruntimeconfig.cache
